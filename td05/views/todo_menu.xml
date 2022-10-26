@@ -1,0 +1,24 @@
+<odoo>
+  <data>
+
+    <!-- actions opening views on models -->
+
+    <record model="ir.actions.act_window" id="td05.action_window">
+      <field name="name">TD05 window</field>
+      <field name="res_model">todo.task</field>
+      <field name="view_mode">tree,form</field>
+    </record>
+
+
+    <!-- Top menu item -->
+
+    <menuitem name="todo_task" id="td05.menu_root"/>
+
+    <!-- menus -->
+
+    <menuitem name="Afficher" id="afficher.menu_parent" parent="td05.menu_root">
+      <!-- actions -->
+      <menuitem name="Les tâches" id="afficher.taches" action="td05.action_window"/>
+    </menuitem>
+  </data>
+</odoo>

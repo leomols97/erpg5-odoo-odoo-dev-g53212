@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e989707-d193-4571-96cf-18180df2c7ce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/td05/models/res_partner_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/td05/views/todo_menu.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/td05/__manifest__.py" beforeDir="false" afterPath="$PROJECT_DIR$/td05/__manifest__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/td05/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/td05/models/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/td05/security/ir.model.access.csv" beforeDir="false" afterPath="$PROJECT_DIR$/td05/security/ir.model.access.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +60,7 @@
       <workItem from="1666367091518" duration="629000" />
       <workItem from="1666621448777" duration="973000" />
       <workItem from="1666699159437" duration="5873000" />
-      <workItem from="1666773982933" duration="514000" />
+      <workItem from="1666773982933" duration="3872000" />
     </task>
     <servers />
   </component>
