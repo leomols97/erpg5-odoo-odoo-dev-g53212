@@ -5,21 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e989707-d193-4571-96cf-18180df2c7ce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/td05/views/todo_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/td05/views/todo_view.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/td05/__manifest__.py" beforeDir="false" afterPath="$PROJECT_DIR$/td05/__manifest__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/td05/views/todo_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/td05/views/todo_menu.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,14 +47,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666259927239</updated>
-      <workItem from="1666259928737" duration="3480000" />
-      <workItem from="1666363830151" duration="65000" />
-      <workItem from="1666364012423" duration="675000" />
-      <workItem from="1666364766685" duration="975000" />
-      <workItem from="1666367091518" duration="629000" />
-      <workItem from="1666621448777" duration="973000" />
-      <workItem from="1666699159437" duration="5873000" />
-      <workItem from="1666773982933" duration="3872000" />
+      <workItem from="1666259928737" duration="1149000" />
+      <workItem from="1666608672922" duration="1256000" />
+      <workItem from="1666651274871" duration="607000" />
+      <workItem from="1666656477312" duration="526000" />
+      <workItem from="1666967451599" duration="91000" />
+      <workItem from="1666967558706" duration="1724000" />
     </task>
     <servers />
   </component>

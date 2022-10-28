@@ -12,13 +12,23 @@
 
     <!-- Top menu item -->
 
-    <menuitem name="todo_task" id="td05.menu_root"/>
+<!--    <menuitem name="todo_task" id="td05.menu_root"/>-->
 
     <!-- menus -->
 
-    <menuitem name="Afficher" id="afficher.menu_parent" parent="td05.menu_root">
-      <!-- actions -->
-      <menuitem name="Les tâches" id="afficher.taches" action="td05.action_window"/>
+<!--    <menuitem name="Afficher" id="show.menu_parent" parent="td05.menu_root">-->
+<!--      &lt;!&ndash; actions &ndash;&gt;-->
+<!--      <menuitem name="Les tâches" id="show.tasks" action="td05.action_window"/>-->
+<!--    </menuitem>-->
+
+    <!-- menus -->
+
+    <menuitem id="td05.menu_root" name="todo_task">
+      <menuitem id="show_menu_parent" name="Afficher">
+        <!-- actions -->
+        <menuitem id="show_tasks" name="Les tâches" action="td05.action_window"/>
+      </menuitem>
     </menuitem>
+    
   </data>
 </odoo>
