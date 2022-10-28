@@ -3,32 +3,20 @@
 
     <!-- actions opening views on models -->
 
-    <record model="ir.actions.act_window" id="td05.action_window">
+    <record model="ir.actions.act_window" id="task_list_item">
       <field name="name">TD05 window</field>
       <field name="res_model">todo.task</field>
       <field name="view_mode">tree,form</field>
     </record>
-
-
-    <!-- Top menu item -->
-
-<!--    <menuitem name="todo_task" id="td05.menu_root"/>-->
-
-    <!-- menus -->
-
-<!--    <menuitem name="Afficher" id="show.menu_parent" parent="td05.menu_root">-->
-<!--      &lt;!&ndash; actions &ndash;&gt;-->
-<!--      <menuitem name="Les tâches" id="show.tasks" action="td05.action_window"/>-->
-<!--    </menuitem>-->
 
     <!-- menus -->
 
     <menuitem id="td05.menu_root" name="todo_task">
       <menuitem id="show_menu_parent" name="Afficher">
         <!-- actions -->
-        <menuitem id="show_tasks" name="Les tâches" action="td05.action_window"/>
+        <menuitem id="show_tasks" name="Les tâches" action="task_list_item"/>
       </menuitem>
     </menuitem>
-    
+
   </data>
 </odoo>

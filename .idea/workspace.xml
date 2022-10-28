@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e989707-d193-4571-96cf-18180df2c7ce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/td05/views/todo_view.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/td05/__manifest__.py" beforeDir="false" afterPath="$PROJECT_DIR$/td05/__manifest__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/td05/views/todo_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/td05/views/todo_menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/td05/views/todo_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/td05/views/todo_view.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +52,7 @@
       <workItem from="1666651274871" duration="607000" />
       <workItem from="1666656477312" duration="526000" />
       <workItem from="1666967451599" duration="91000" />
-      <workItem from="1666967558706" duration="1724000" />
+      <workItem from="1666967558706" duration="4480000" />
     </task>
     <servers />
   </component>
