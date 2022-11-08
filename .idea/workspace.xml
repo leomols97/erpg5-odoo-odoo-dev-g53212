@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e989707-d193-4571-96cf-18180df2c7ce" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/odoo-dev.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/odoo-dev.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/td05/__manifest__.py" beforeDir="false" afterPath="$PROJECT_DIR$/td05/__manifest__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/td05/views/todo_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/td05/views/todo_menu.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/td05/views/todo_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/td05/views/todo_view.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -51,8 +51,13 @@
       <workItem from="1666608672922" duration="1256000" />
       <workItem from="1666651274871" duration="607000" />
       <workItem from="1666656477312" duration="526000" />
-      <workItem from="1666967451599" duration="91000" />
-      <workItem from="1666967558706" duration="4480000" />
+      <workItem from="1666737442784" duration="588000" />
+      <workItem from="1667407103550" duration="122000" />
+      <workItem from="1667407290404" duration="1208000" />
+      <workItem from="1667566475382" duration="560000" />
+      <workItem from="1667567251780" duration="110000" />
+      <workItem from="1667567434044" duration="542000" />
+      <workItem from="1667854148646" duration="872000" />
     </task>
     <servers />
   </component>
