@@ -3,8 +3,8 @@
     <!-- actions opening the view -->
 
     <record model="ir.ui.view" id="task_tree_view">
-        <field name="model">todo.task</field>
         <field name="name">task.tree</field>
+        <field name="model">todo.task</field>
         <field name="arch" type="xml">
             <tree string="Task Tree" class="decoration-muted">
                 <field name="name"/>
@@ -28,6 +28,17 @@
                 <filter string="Is done ?" name="is_done" domain="[('is_done', '=', 1)]"/>
                 <filter string="Is not done ?" name="is_not_done" domain="[('is_done', '=', 0)]"/>
             </search>
+        </field>
+    </record>
+
+    <record model="ir.ui.view" id="todo_task_teams">
+        <field name="name">todo.teams</field>
+        <field name="model">res.partner</field>
+        <field name="inherit_id" ref="base.view_partner_form"/>
+        <field name="arch" type="xml">
+            <field name="category_id" position="after">
+                <field name="todo_ids" string="Tâches de la team"/>
+            </field>
         </field>
     </record>
 
