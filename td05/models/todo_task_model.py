@@ -7,4 +7,4 @@ class TodoTask(models.Model):
     active = fields.Boolean('Active?', default=True)
     date_deadline = fields.Date('Deadline')
     user_id = fields.Many2one('res.users', 'Responsible')
-    team_id = fields.Many2many('res.partner', 'Team')
+    team_id = fields.Many2many('res.partner', string='Team')
