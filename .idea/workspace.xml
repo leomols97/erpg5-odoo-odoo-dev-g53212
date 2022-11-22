@@ -5,12 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e989707-d193-4571-96cf-18180df2c7ce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/td05-mauvais/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/td05-mauvais/__manifest__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/td05-mauvais/controllers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/td05-mauvais/controllers/controllers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/td05-mauvais/demo/demo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/td05-mauvais/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/td05-mauvais/models/res_partner_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/td05-mauvais/models/todo_task_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/td05-mauvais/security/ir.model.access.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/td05-mauvais/static/description/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/td05-mauvais/static/img/task01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/td05-mauvais/static/img/task02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/td05-mauvais/static/img/task03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/td05-mauvais/static/img/task04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/td05-mauvais/static/img/task05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/td05-mauvais/static/img/task06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/td05-mauvais/views/templates.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/td05-mauvais/views/todo_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/td05-mauvais/views/todo_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/td05-mauvais/views/views.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/odoo-dev.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/odoo-dev.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/td05/__manifest__.py" beforeDir="false" afterPath="$PROJECT_DIR$/td05/__manifest__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/td05/models/res_partner_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/td05/models/res_partner_model.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/td05/models/todo_task_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/td05/models/todo_task_model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/td05/views/res_partner_view.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/td05/views/todo_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/td05/views/todo_menu.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/td05/views/todo_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/td05/views/todo_view.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,28 +43,27 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GOW5RjiW3nfQdocgVedkcJ1lIx" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/leopoldmols/Desktop/ESI/3emeB/Q1/ERPG5/Odoo/odoo-dev/td05/views&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/leopoldmols/Desktop/ESI/3emeB/Q1/ERPG5/Odoo/odoo-dev",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/td05/views" />
-    </key>
-  </component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -69,17 +86,18 @@
       <workItem from="1668085715742" duration="564000" />
       <workItem from="1668100875162" duration="594000" />
       <workItem from="1668263521058" duration="661000" />
-      <workItem from="1668337445029" duration="313000" />
-      <workItem from="1668359980846" duration="556000" />
-      <workItem from="1668375431964" duration="120000" />
-      <workItem from="1668433504969" duration="464000" />
-      <workItem from="1668475442457" duration="129000" />
-      <workItem from="1668510004391" duration="5205000" />
-      <workItem from="1668534626698" duration="5181000" />
+      <workItem from="1668337445029" duration="582000" />
+      <workItem from="1668416221069" duration="1141000" />
+      <workItem from="1669111956805" duration="653000" />
+      <workItem from="1669115434498" duration="2738000" />
+      <workItem from="1669124294333" duration="3553000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
